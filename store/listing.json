@@ -1,0 +1,37 @@
+{
+  "aso": {
+    "primary": "minesweeper offline",
+    "problems": [],
+    "secondary": [
+      "classic minesweeper free",
+      "minesweeper big tiles",
+      "minesweeper easy mode"
+    ]
+  },
+  "title": "Cozy Fields: Minesweeper",
+  "category": "Puzzle",
+  "keywords": [
+    "minesweeper offline",
+    "classic minesweeper free",
+    "minesweeper big tiles",
+    "minesweeper easy mode",
+    "minesweeper",
+    "minesweeper classic",
+    "minesweeper go",
+    "daily minesweeper",
+    "offline puzzle game",
+    "relaxing logic puzzle"
+  ],
+  "release_notes": "Initial release: 36 handcrafted levels, daily puzzle and streaks, big tiles option, hints and single‑step undo, timed star ratings, colorblind mode, and full offline play. Ads appear respectfully (no banner before level 5; first interstitial after level 10; then at most one every 4 levels). IAPs: Remove Ads, Pile of Coins, Chest of Coins.",
+  "content_rating": "Everyone",
+  "full_description": "Minesweeper offline rebuilt for comfort and clarity in quick, one‑handed sessions. Clear cozy fields, mark mines, and relax with smart touch controls that reduce mis-taps. Play anywhere—no account, no login, no cloud save, and fully offline progress on your device.\n\nWhat’s inside\n• 36 levels: handcrafted boards with a smooth difficulty ramp from calm to challenging\n• Daily puzzle: a fresh seed each day to keep your streak alive\n• Classic flow: reveal safe tiles, flag mines, and solve every level by logic, never by guessing\n• Big tiles: a setting for larger tiles on free-play boards\n• Easy mode: learn the patterns without pressure before stepping up\n• Timed mode: chase 3 stars with time thresholds per level\n• Undo & restart: one-tap recovery and clean restarts when you want a do‑over\n• Hints: confirm a single tile when you need a nudge\n• Colorblind mode: number palettes and markers designed for readability\n• Sound & haptics: subtle clicks and gentle vibration, all toggleable\n• Coins & themes: earn coins as you play and spend thoughtfully—no loot boxes\n• Streaks: keep a daily run going with the daily challenge\n\nControls that feel right\n• Tap to reveal, press-and-hold to flag with a light haptic tick\n• Optional on-screen toggle for reveal/flag if you prefer not to long‑press\n• Big tiles and clean UI minimize accidental touches in portrait play\n\nProgression that respects your time\n• 36 levels with star ratings encourage mastery without locking you out\n• Daily challenge adds variety and a reason to return\n• Plays great in 1–3 minute sessions while also suiting longer relax‑and‑solve runs\n\nFair ads and purchases\n• No banner before level 5\n• First interstitial after level 10; then at most one every 4 levels\n• Rewarded ads only when you choose (for a hint or similar utility)\n• In‑app purchases: Remove Ads, Pile of Coins, Chest of Coins. That’s it—no loot boxes\n\nWhy Cozy Fields\n• A clean, calm take on classic minesweeper with thoughtful extras\n• Designed for thumbs: big tiles, simple gestures, and readable visuals\n• Works fully offline, so your puzzle time is always yours\n\nIf you love classic minesweeper and want bigger tiles and a gentler start, Cozy Fields is for you. Settle in, clear the board, and enjoy the quiet satisfaction of a perfect solve.\n\nReady to relax? Open a field, place a flag, and play now.",
+  "screenshots_plan": [
+    "Minesweeper offline play",
+    "Big tiles, easy taps",
+    "Daily puzzle streak",
+    "Undo, hint, restart",
+    "Colorblind friendly numbers",
+    "Respectful optional ads"
+  ],
+  "short_description": "Classic minesweeper to play offline: big tiles, 36 levels and a calm, cozy look."
+}

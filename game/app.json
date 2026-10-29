@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Minesweeper Offline",
+    "slug": "minesweeper-offline-cozy-fields",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.jeetech.g003",
+      "versionCode": 4,
+      "permissions": [],
+      "blockedPermissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.SYSTEM_ALERT_WINDOW"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/store/adaptive-foreground.png",
+        "backgroundColor": "#873a0f"
+      }
+    },
+    "scheme": "minesweeper-offline-cozy-fields",
+    "ios": {
+      "bundleIdentifier": "com.jeetech.g003",
+      "buildNumber": "3.29877096",
+      "appleTeamId": "BJ9K59US7U",
+      "supportsTablet": false,
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "icon": "./assets/ios-icon.png"
+    },
+    "icon": "./assets/store/icon.png"
+  }
+}

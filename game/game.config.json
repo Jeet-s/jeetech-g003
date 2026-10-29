@@ -1,0 +1,29 @@
+{
+  "title": "Minesweeper Offline: Cozy Fields",
+  "package": "com.jeetech.g003",
+  "coreMechanic": "Choose difficulty or daily,Tap to reveal safe tiles; long-press or toggle to flag mines,Use logic to clear all non-mine tiles; optional single free Undo,Win: record time/streak, optional share; Loss: show final board and last action for 3s review,Collect soft currency for cosmetic themes; optional rewarded hints/revive,Repeat with clear progression and dailies",
+  "screens": [
+    "Home (title)",
+    "Levels (chapter map)",
+    "Game (board + HUD)",
+    "Win",
+    "Fail (board review \u2192 undo/revive/retry)",
+    "Pause",
+    "Hint",
+    "Daily & Free Play",
+    "Shop (Remove Ads, leaves, themes)",
+    "Settings (controls + accessibility)"
+  ],
+  "monetization": {
+    "rewardedAds": true,
+    "interstitials": true,
+    "removeAdsIap": true
+  },
+  "analyticsEvents": [
+    "level_start",
+    "level_complete",
+    "level_fail",
+    "tutorial_done"
+  ],
+  "_note": "Filled by the Claude Code builder from the GDD + asset manifest."
+}

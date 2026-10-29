@@ -1,0 +1,11 @@
+{
+  "_note": "Store screenshot scenes. Each id is opened with <scheme>://shot/<id> and captured on an emulator. Every scene renders the REAL screens in a specific state (src/screenshots.tsx). The 'home' scene (title screen) is required and judged.",
+  "scenes": [
+    { "id": "home", "caption": "Cozy minesweeper, fully offline" },
+    { "id": "solve", "caption": "Fair boards, never a guess" },
+    { "id": "win", "caption": "Earn stars and golden leaves" },
+    { "id": "night", "caption": "Six chapters of clever fields" },
+    { "id": "map", "caption": "36 handcrafted puzzle levels" },
+    { "id": "daily", "caption": "Fresh daily fields every day" }
+  ]
+}

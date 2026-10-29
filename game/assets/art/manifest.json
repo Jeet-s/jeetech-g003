@@ -1,0 +1,161 @@
+{
+  "style": "Premium cozy minimalism with tactile materials: a sunlit, top‑left key light (35°) kisses soft‑touch paper tiles resting in a shallow wooden tray; edges are rounded and chamfered with a 1–2 px highlight and tight ambient occlusion in seams to suggest hand‑cut card stock. Surfaces carry a whisper of paper grain and 1% film grain; shading is calm and even, with gentle falloff shadows that lift elements from a warm parchment backdrop. Numbers are subtly embossed ink, flags are stitched fabric with a faint sheen and tiny fiber texture, mines are abstract seed pods in matte ceramic with a satin rim light—nothing violent. The overall mood is restful, offline, and thoughtfully crafted; color is warm and low‑saturation with clear contrast, depth is layered in three tiers (background, tray, interactive pieces) for instant legibility, and micro‑animations feel springy and humane.",
+  "palette": [
+    "#F6EBDD",
+    "#E6D2B4",
+    "#BFA88F",
+    "#4CAF50",
+    "#FF6B6B",
+    "#1E88E5"
+  ],
+  "ui_palette": {
+    "primary": "#4CAF50",
+    "primaryDark": "#2E7D32",
+    "secondary": "#F6EBDD",
+    "secondaryDark": "#BFA88F",
+    "accent": "#FF6B6B",
+    "accentDark": "#C54545",
+    "bgTop": "#F7EDE0",
+    "bgBottom": "#E6D2B4",
+    "ink": "#2A2A24"
+  },
+  "assets": [
+    {
+      "id": "bg_parchment_cozy",
+      "kind": "background",
+      "file": "bg_parchment_cozy.png",
+      "usage": "menus, gameplay default theme",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "bg_garden_wood",
+      "kind": "background",
+      "file": "bg_garden_wood.png",
+      "usage": "alternate theme background",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "bg_night_sky",
+      "kind": "background",
+      "file": "bg_night_sky.png",
+      "usage": "alternate theme background (Night)",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "id": "board_tray_paperwood",
+      "kind": "sprite",
+      "file": "board_tray_paperwood.png",
+      "usage": "container under the grid",
+      "width": 511,
+      "height": 512
+    },
+    {
+      "id": "tile_hidden_card",
+      "kind": "sprite",
+      "file": "tile_hidden_card.png",
+      "usage": "unrevealed grid cell",
+      "width": 512,
+      "height": 509
+    },
+    {
+      "id": "tile_revealed_empty",
+      "kind": "sprite",
+      "file": "tile_revealed_empty.png",
+      "usage": "revealed empty cell",
+      "width": 504,
+      "height": 512
+    },
+    {
+      "id": "tile_number_glyph_sheet",
+      "kind": "sprite",
+      "file": "tile_number_glyph_sheet.png",
+      "usage": "overlay numbers 1–8 on revealed tiles",
+      "width": 445,
+      "height": 512
+    },
+    {
+      "id": "tile_flag_fabric",
+      "kind": "sprite",
+      "file": "tile_flag_fabric.png",
+      "usage": "flag placed on a cell",
+      "width": 414,
+      "height": 512
+    },
+    {
+      "id": "tile_mine_seedpod",
+      "kind": "sprite",
+      "file": "tile_mine_seedpod.png",
+      "usage": "mine reveal/exploded",
+      "width": 512,
+      "height": 274
+    },
+    {
+      "id": "hud_panel_parchment",
+      "kind": "ui",
+      "file": "hud_panel_parchment.png",
+      "usage": "top status bar background",
+      "width": 512,
+      "height": 278
+    },
+    {
+      "id": "button_primary_plate",
+      "kind": "ui",
+      "file": "button_primary_plate.png",
+      "usage": "primary actions, tool toggle active",
+      "width": 512,
+      "height": 217
+    },
+    {
+      "id": "button_secondary_plate",
+      "kind": "ui",
+      "file": "button_secondary_plate.png",
+      "usage": "secondary actions",
+      "width": 512,
+      "height": 263
+    },
+    {
+      "id": "icon_reward_leaf",
+      "kind": "sprite",
+      "file": "icon_reward_leaf.png",
+      "usage": "rewards, currency, win confetti seed",
+      "width": 482,
+      "height": 512
+    },
+    {
+      "id": "fx_sparkle_soft",
+      "kind": "fx",
+      "file": "fx_sparkle_soft.png",
+      "usage": "tile reveal and cascade highlights",
+      "width": 477,
+      "height": 512
+    },
+    {
+      "id": "fx_leaf_confetti_burst",
+      "kind": "fx",
+      "file": "fx_leaf_confetti_burst.png",
+      "usage": "win celebration",
+      "width": 512,
+      "height": 496
+    },
+    {
+      "id": "hero_key_art_cozy_field",
+      "kind": "character",
+      "file": "hero_key_art_cozy_field.png",
+      "usage": "title screen hero illustration",
+      "width": 445,
+      "height": 512
+    },
+    {
+      "id": "logo",
+      "kind": "ui",
+      "file": "logo.png",
+      "usage": "the game logo — title/home screen and anywhere the name appears",
+      "width": 900,
+      "height": 455
+    }
+  ],
+  "legacy": []
+}

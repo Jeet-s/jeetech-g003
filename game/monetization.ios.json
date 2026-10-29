@@ -1,0 +1,9 @@
+{
+  "_note": "iOS (App Store) AdMob ids. Android keeps using monetization.json; src/modules/ads.ts picks these with Platform.select.",
+  "admob": {
+    "appId": "ca-app-pub-5054561222360217~2042184217",
+    "banner": "ca-app-pub-5054561222360217/5972856210",
+    "interstitial": "ca-app-pub-5054561222360217/1834959795",
+    "rewarded": "ca-app-pub-5054561222360217/8208796456"
+  }
+}
