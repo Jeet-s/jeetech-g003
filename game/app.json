@@ -2,11 +2,11 @@
   "expo": {
     "name": "Minesweeper Offline",
     "slug": "minesweeper-offline-cozy-fields",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "orientation": "portrait",
     "android": {
       "package": "com.jeetech.g003",
-      "versionCode": 4,
+      "versionCode": 5,
       "permissions": [],
       "blockedPermissions": [
         "android.permission.READ_EXTERNAL_STORAGE",
